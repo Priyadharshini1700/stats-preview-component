@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [ solution URL](https://www.frontendmentor.io/solutions/html-and-css-kfFXCgA5U)
+- Live Site URL: [Live site URL](https://priyadharshini1700.github.io/stats-preview-component/)
 
 ## My process
 
