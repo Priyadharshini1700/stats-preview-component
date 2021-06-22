@@ -152,7 +152,7 @@ ul{
   .card-picture {
     background-image: url(images/desktop.jpg) no-repeat cover/center;
     border-radius: 0 10px 10px 0;
-    width:70%;
+    width:90%;
     height: 365px;
 
 
@@ -177,6 +177,7 @@ p {
 img{
   height: 366px;
   border-radius: 0 10px 10px 0;
+  max-width:100%;
 
 }
 
